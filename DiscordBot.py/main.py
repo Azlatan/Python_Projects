@@ -105,4 +105,4 @@ async def embed(ctx):
 
 
 
-client.run("NzkxMzA4NTQ3MjMyMTA0NTE4.X-NRgw.3ujtrvu2GdKxV6vKHO9MIUq_ofs")
+client.run("TOKEN OF DISCORD")
